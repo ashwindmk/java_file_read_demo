@@ -52,7 +52,7 @@
       <recent name="C:\mydata\projects\java\file_read_demo\src\filereader" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadAllLinesDemo">
+  <component name="RunManager" selected="Application.ReadAllBytesDemo">
     <configuration name="BufferedReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bufferedreader.BufferedReaderDemo" />
       <module name="File Read Demo" />
@@ -72,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="filereader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadAllBytesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readallbytes.ReadAllBytesDemo" />
+      <module name="File Read Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="readallbytes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadAllBytesDemo" />
         <item itemvalue="Application.ReadAllLinesDemo" />
         <item itemvalue="Application.ScannerDemo" />
         <item itemvalue="Application.FileReaderDemo" />

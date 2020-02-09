@@ -1,0 +1,2 @@
+This is a sample text for String readAllBytes demo.
+This will directly return data in string.
