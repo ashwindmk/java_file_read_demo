@@ -1,0 +1,2 @@
+This is a sample text for Files.readAllLines.
+This will return a list of string lines.

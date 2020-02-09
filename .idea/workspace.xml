@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f8de925-e95a-46ed-b526-93ba250d8ba1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Read Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bufferedreader/BufferedReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bufferedreader/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filereader/FileReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filereader/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readalllines/ReadAllLinesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readalllines/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/data.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XYMgck1Po58MR7VomOikuRh7xX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/filereader" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mydata\projects\java\file_read_demo\src\filereader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReadAllLinesDemo">
+    <configuration name="BufferedReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bufferedreader.BufferedReaderDemo" />
+      <module name="File Read Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bufferedreader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filereader.FileReaderDemo" />
+      <module name="File Read Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filereader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadAllLinesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="readalllines.ReadAllLinesDemo" />
+      <module name="File Read Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="readalllines.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ScannerDemo" />
+      <module name="File Read Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadAllLinesDemo" />
+        <item itemvalue="Application.ScannerDemo" />
+        <item itemvalue="Application.FileReaderDemo" />
+        <item itemvalue="Application.BufferedReaderDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8de925-e95a-46ed-b526-93ba250d8ba1" name="Default Changelist" comment="" />
+      <created>1581218686818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581218686818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1402" height="198" key="GridCell.Tab.0.bottom" timestamp="1581230075584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581230075584" />
+    <state width="1402" height="198" key="GridCell.Tab.0.center" timestamp="1581230075583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581230075583" />
+    <state width="1402" height="198" key="GridCell.Tab.0.left" timestamp="1581230075583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581230075583" />
+    <state width="1402" height="198" key="GridCell.Tab.0.right" timestamp="1581230075584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581230075584" />
+  </component>
+</project>
